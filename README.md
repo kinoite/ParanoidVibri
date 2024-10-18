@@ -1,17 +1,25 @@
-- 👋 Hi, I’m ParanoidVibri, but call me Sycorax.
-- 
-- 👀 I’m interested in programming and astronomy!
-- 
-- 🌱 I’m currently learning Python and Lua.
-- 
-- 💞️ I’m looking to collaborate on nothing!
-- 
-- 📫 How to reach me:
-- Discord: @goldsycorax
-- Skype: Sycorax
-- 😄 Pronouns: He/Him, straight.
-- ⚡ Fun fact: I am from Saudi Arabia, not to brag.
+# Introduction
+Hello there.
 
+Name's ParanoidVibri but **please** call me Kinoite. (kino for short)
+
+### Nationality
+Saudi Arabian by god, Malaysian by choice.
+
+### Gender and Sexuality
+Non-Binary as my gender identity, straight male as my prefrence in partner.
+
+### Pronouns
+Fey/Fem, They/Them, any Non-Binary pronouns work for me.
+
+### Languages I am learning
+I currently know Lua and Shell script (Bash),
+But I am also learning Psuedocode and Rust.
+I am looking forward to learning Emacs Lisp aswell, but maybe soon.
+
+### Socials
+Discord: @_kinoite
+Roblox **(INACTIVE, BARELY TOUCHED IT IN A LONG WHILE.)**: @onbzb
 <!---
 ParanoidVibri/ParanoidVibri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
