@@ -1,7 +1,7 @@
 # Introduction
 Hello there.
 
-Name's ParanoidVibri but **please** call me Kinoite. (kino for short)
+Name's Kinoite. (kino for short)
 
 ### Nationality
 Saudi Arabian by god, Malaysian by choice.
