@@ -4,7 +4,7 @@ Hello there.
 Name's Kinoite. (kino for short)
 
 ### Nationality
-Saudi Arabian by god, Malaysian by choice.
+Saudi Arabian.
 
 ### Gender and Sexuality
 Non-Binary as my gender identity, straight male as my prefrence in partner.
