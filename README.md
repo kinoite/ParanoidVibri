@@ -7,7 +7,7 @@ Name's Kinoite. (kino for short)
 Saudi Arabian.
 
 ### Gender and Sexuality
-Non-Binary as my gender identity, straight male as my prefrence in partner.
+Non-Binary and Asexual
 
 ### Pronouns
 Fey/Fem, They/Them, any Non-Binary pronouns work for me.
