@@ -1,25 +1,31 @@
-# Introduction
-Hello there.
+# Welcome!
+My name is **_Kinoite_**, a rustacean who is addicted to writing code and doing linux-y stuff everyday! sounds like fun... right?
 
-Name's Kinoite. (kino for short)
+## About my computers
+PC:
+Intel Core CometLake 10th gen i7-10700K
+NVIDIA GeForce RTX 3050 with 570 proprietary open module drivers
+16 GB of DDR5 RAM
+900GB Kingston SSD
+KDE neon Linux
 
-### Nationality
-Saudi Arabian.
+15-year-old laptop:
+Intel Core i7-278QM 3rd gen
+AMD TURKS 6770XT HD Radeon dGPU
+8GB of RAM
+1TB TOSHIBA HDD
+Arch Linux
 
-### Gender and Sexuality
-Non-Binary and Asexual
-
-### Pronouns
-Fey/Fem, They/Them, any Non-Binary pronouns work for me.
-
-### Languages I am learning
-I currently know Lua and Shell script (Bash),
-But I am also learning Psuedocode and Rust.
-I am looking forward to learning Emacs Lisp aswell, but maybe soon.
+Corebooted (mrchromebox's custom firmware god bless him) Lenovo IdeaPad Flex 5 Chromebook
+Intel Core i3-10110U 10th gen 
+no dGPU :C
+4GB of RAM 💀
+60 GB of eMMC storage 💀
+Gentoo Linux somehow
 
 ### Socials
 Discord: @_kinoite
-Roblox **(INACTIVE, BARELY TOUCHED IT IN A LONG WHILE.)**: @onbzb
+
 
 ### Languages
 <br/>
